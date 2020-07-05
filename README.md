@@ -6,5 +6,5 @@ Project code:
 
 Summaries from online courses:
 
-1.) Introduction to Machine Learning: Introductory predictions of melbourne house prices using stock libraries 
+1.) Introduction to Machine Learning: Introductory predictions of melbourne house prices using stock sklearn regressors. 
 
