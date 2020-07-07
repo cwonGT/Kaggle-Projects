@@ -1,10 +1,10 @@
 # Kaggle-Projects
 
-Project code:
+<h2> Project code: </h2>
 
 1.)
 
-Summaries from online courses:
+<h2> Summaries from online courses: </h2>
 
 1.) Introduction to Machine Learning: Introductory predictions of melbourne house prices using stock sklearn regressors. 
 
